@@ -6,13 +6,13 @@
  *         two spaces. Based on the input value N, which is spcified by the user from console, the pyramids will have the height N
  *         and width of each pyramid also N. 
  *
- * @input  valid credit card number in all digits typed in console
- * @output type of credit card as String to console
+ * @input  width/height of the pyramid 
+ * @output two half pyramid output to the console
  * @class  EdX.org - CS50x 2014 - Pset 1 - Hacker Edition - Itsa Mario
  * @author Bryant Son
  * @since  07/02/2014 CST
  *
- * DISCLAIMER & LICENSE: This is a Hacker Edition of EdX's Havard CS50x course taken in 2014. Since Hacker Edition is an optional assignment
+ * DISCLAIMER & LICENSE: This is a Hacker Edition of EdX's Harvard CS50x course taken in 2014. Since Hacker Edition is an optional assignment
  * that does not give any point to the student of the class, you are not getting any advantage in terms of the grade by looking at this solution.
  * This solution is for the learning and a personal backup purposes only, and you should not use this code for a cheating or any other purpose
  * other than for the education purpose. Otherwise, you are free to read and to modify the code for your own program.
